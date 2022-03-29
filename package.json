@@ -1,0 +1,24 @@
+{
+  "name": "mycli",
+  "version": "1.0.0",
+  "description": "A CLI tool to translate language in the terminal.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manav Shrivastava",
+  "license": "ISC",
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "mycli": "./bin/index.js"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.1",
+    "figlet": "^1.5.2",
+    "yargs": "^16.1.1"
+  }
+}
