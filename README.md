@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/termTranslate3.png" height="220" width"700">
+  <img src="images/screenshot.png" height="220" width"700">
  </p>
  <p align="center">
    <img  src="https://img.shields.io/badge/license-MIT-green">
